@@ -354,3 +354,20 @@ body {
     height: inherit;
     flex-wrap: inherit;
   }
+
+
+  .contacus{
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 100PX;
+    height: 100px;
+    width: auto;
+    border: 0px;
+    border-color: black;
+    border-style: solid;
+  }
+
+  .contacus img {
+  width: 75px;
+  }
